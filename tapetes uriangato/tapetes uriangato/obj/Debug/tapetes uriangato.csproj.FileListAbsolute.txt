@@ -1,0 +1,16 @@
+C:\Users\CC2_PC33\Downloads\tapetes uriangato\tapetes uriangato\bin\Debug\tapetes uriangato.exe
+C:\Users\CC2_PC33\Downloads\tapetes uriangato\tapetes uriangato\bin\Debug\tapetes uriangato.pdb
+C:\Users\CC2_PC33\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes uriangato.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC33\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes_uriangato.MainForm.resources
+C:\Users\CC2_PC33\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes uriangato.csproj.GenerateResource.Cache
+C:\Users\CC2_PC33\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes uriangato.exe
+C:\Users\CC2_PC33\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes uriangato.pdb
+C:\Users\CC2_PC33\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes_uriangato.diseños.resources
+C:\Users\CC1_PC42\Downloads\tapetes uriangato\tapetes uriangato\bin\Debug\tapetes uriangato.exe
+C:\Users\CC1_PC42\Downloads\tapetes uriangato\tapetes uriangato\bin\Debug\tapetes uriangato.pdb
+C:\Users\CC1_PC42\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes uriangato.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC42\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes_uriangato.diseños.resources
+C:\Users\CC1_PC42\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes_uriangato.MainForm.resources
+C:\Users\CC1_PC42\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes uriangato.csproj.GenerateResource.Cache
+C:\Users\CC1_PC42\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes uriangato.exe
+C:\Users\CC1_PC42\Downloads\tapetes uriangato\tapetes uriangato\obj\Debug\tapetes uriangato.pdb
